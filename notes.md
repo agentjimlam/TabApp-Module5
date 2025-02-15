@@ -1,0 +1,1 @@
+For assignment 5.3, I passed props from Feed Screen in Drawer.Navigator, to Settings screen in Tab.Navigator.
